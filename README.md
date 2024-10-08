@@ -14,18 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning:
-  <strong>
-  - JavaScript
-  - Web Development
-  - Topics in cyber security
-  </strong>
-  
 - I am proficient in:
   <strong>
   - Python
   - Java
   - Swift
+  - Web Development
+  - Project Management 
   </strong>
   
 - ⚡ Fun fact:
