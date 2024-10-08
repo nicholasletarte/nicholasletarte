@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   - Prior to enrolling in the MSCS at Northeatsern University, I worked aboard commercial scallop vessels up and down the east coast for three years.
 ![scallops](https://github.com/nicholasletarte/nicholasletarte/assets/110304219/40492625-3e72-4ab2-9477-958c962b696b)
 
-- 👯 I currently am on COOP as a Research Analyst for The Eckerson Group.
+- 👯 I am set to graduate with an MSCS from Northeastern University in December, 2024.
 
-- 📫 How to reach me: letarte.n@northeastern.edu
+- Personal website: https://superlative-croissant-bc1e61.netlify.app/
